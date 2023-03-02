@@ -1,4 +1,3 @@
-import "./styles.css";
 // select elements from the DOM
 const hours = document.getElementById("hours");
 const minutes = document.getElementById("minutes");
